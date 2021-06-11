@@ -1,0 +1,5 @@
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS013NejdelsiSlovo\CS013NejdelsiSLovo\obj\Debug\CS013NejdelsiSLovo.csprojAssemblyReference.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS013NejdelsiSlovo\CS013NejdelsiSLovo\obj\Debug\CS013NejdelsiSLovo.NejdelsiSlovoForm.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS013NejdelsiSlovo\CS013NejdelsiSLovo\obj\Debug\CS013NejdelsiSLovo.Properties.Resources.resources
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS013NejdelsiSlovo\CS013NejdelsiSLovo\obj\Debug\CS013NejdelsiSLovo.csproj.GenerateResource.cache
+C:\Users\kajah\OneDrive - SPS-CL\3. ročník\1. pololetí\Programování\C#\CS013NejdelsiSlovo\CS013NejdelsiSLovo\obj\Debug\CS013NejdelsiSLovo.csproj.CoreCompileInputs.cache
